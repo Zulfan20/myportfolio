@@ -23,3 +23,14 @@ menu_item.forEach((item) => {
 		mobile_menu.classList.toggle('active');
 	});
 });
+
+
+
+const ambilFooter = document.querySelector('#gambaroy')
+
+ambilFooter.src = '78995.jpg'
+
+
+
+
+// const masukinGambar = ('78995.jpg')
