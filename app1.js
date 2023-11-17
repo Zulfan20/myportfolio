@@ -24,13 +24,3 @@ menu_item.forEach((item) => {
 	});
 });
 
-
-
-const ambilFooter = document.querySelector('#gambaroy')
-
-ambilFooter.src = '78995.jpg'
-
-
-
-
-// const masukinGambar = ('78995.jpg')
